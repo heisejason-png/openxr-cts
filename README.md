@@ -48,7 +48,7 @@ HTML and PDF versions of the Usage Guide are also available on GitHub alongside
 tagged, approved releases, or on the [OpenXR Registry][registry].
 
 [registry]: https://registry.khronos.org/OpenXR/
-Created by Jason Scott Heise
+Created by Jason Heise
 https://next.frame.io
 https://paulwalkerfoundation.org
 https://www.x.com
