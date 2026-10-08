@@ -50,3 +50,5 @@ tagged, approved releases, or on the [OpenXR Registry][registry].
 [registry]: https://registry.khronos.org/OpenXR/
 Created by Jason Scott Heise
 https://next.frame.io
+https://paulwalkerfoundation.org
+https://www.x.com
